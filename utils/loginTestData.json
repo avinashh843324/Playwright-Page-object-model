@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Valid login",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "expected": "success"
+  },
+  {
+    "name": "Invalid login",
+    "username": "invalid_user",
+    "password": "wrong_pass",
+    "expected": "error",
+    "errorMessage": "Epic sadface: Username and password do not match any user in this service"
+  }
+]
