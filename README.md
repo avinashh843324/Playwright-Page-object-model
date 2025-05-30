@@ -1,4 +1,4 @@
-# playwright-sdet-assignment
+# playwright Page object Model
 Setup Instructions
 
 **1. Clone the repository:**
